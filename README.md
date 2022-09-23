@@ -32,7 +32,7 @@ tc_window_len_dict = {
 self.tc_window_length = tc_window_len_dict.get(freq) if freq in ['H', 'D'] else None
 ```
 
-**v1**
+**v2**
 
 ```{python}
 tc_window_len_dict = {
